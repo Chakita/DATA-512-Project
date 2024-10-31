@@ -5,7 +5,7 @@ Further the regular expression code to process start and end dates for fires was
 
 ## Repository structure
 The repository contains the code for the data processing and analysis on smoke estimate in the [wildfire-forecasting.ipynb notebook](https://github.com/Chakita/DATA-512-Project/blob/master/wildfire-forecasting.ipynb) and contains the code for AQI data collection and processing in the [AQI_data_extraction_Lubbock.ipynb notebook](https://github.com/Chakita/DATA-512-Project/blob/master/AQI_data_extraction_Lubbock.ipynb).
-The processed and cleaned data can be found in the [data folder](https://github.com/Chakita/DATA-512-Project/tree/master/data)
+The processed and cleaned data can be found in the [data folder](https://github.com/Chakita/DATA-512-Project/tree/master/data). The plots generated during the analysis can be found in the [plots folder](DATA-512-Project/plots)
 
 ## Data
 
@@ -76,9 +76,6 @@ From further analysis checking for non-linear relationships, we could not find a
 ## Forecasting smoke estimates for next 25 years
 
 We use timeseries models namely the exponential smooting model and ARIMA to forecast the some estimate for the next 25 years. These models are best suited for yearly data without any seasonality in them. Since our smoke estimates are yearly data, we employ these models for forecasting. Based on the MSE, MAE and MAPE accuracy metrics, we see that exponential smoothing performs slightly better than ARIMA
-
-## Conclusion
-
 
 
 
