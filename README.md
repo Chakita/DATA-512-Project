@@ -5,7 +5,7 @@ Further the regular expression code to process start and end dates for fires was
 
 ## Repository structure
 The repository contains the code for the data processing and analysis on smoke estimate in the [wildfire-forecasting.ipynb notebook](https://github.com/Chakita/DATA-512-Project/blob/master/wildfire-forecasting.ipynb) and contains the code for AQI data collection and processing in the [AQI_data_extraction_Lubbock.ipynb notebook](https://github.com/Chakita/DATA-512-Project/blob/master/AQI_data_extraction_Lubbock.ipynb).
-The processed and cleaned data can be found in the [data folder](https://github.com/Chakita/DATA-512-Project/tree/master/data). The plots generated during the analysis can be found in the [plots folder](DATA-512-Project/plots)
+The processed and cleaned data can be found in the [data folder](https://github.com/Chakita/DATA-512-Project/tree/master/data). The plots generated during the analysis can be found in the [plots folder](https://github.com/Chakita/DATA-512-Project/tree/master/plots)
 
 ## Data
 
