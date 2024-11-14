@@ -1,6 +1,6 @@
 # Wildfire Analysis for Lubbock,Texas
 
-This repositoruy contains the code and data for estimating impact of smoke caused by wildfires on the city of Lubbock, Texas. the aim of this project is to try to come up with an estimate to determine the impact of smoke from the wildfires around the city of Lubbock,Texas and try to come up with a prediction of what this estimate looks like for the next 25 years. Parts of the code used for processing the JSON file contianing geographic information were adapted from [example code](https://drive.google.com/file/d/1B7AGlaW7d-27bHKLVXGBwLt8T-Elx-HB/view?usp=drive_link) provided by Dr.David McDonald. 
+This repository contains the code and data for estimating impact of smoke caused by wildfires on the city of Lubbock, Texas. the aim of this project is to try to come up with an estimate to determine the impact of smoke from the wildfires around the city of Lubbock,Texas and try to come up with a prediction of what this estimate looks like for the next 25 years. Parts of the code used for processing the JSON file contianing geographic information were adapted from [example code](https://drive.google.com/file/d/1B7AGlaW7d-27bHKLVXGBwLt8T-Elx-HB/view?usp=drive_link) provided by Dr.David McDonald. 
 Further the regular expression code to process start and end dates for fires was shared by [Himanshu J. Naidu](https://github.com/himanshunaidu/data512_project/blob/master/wildfire_data_acquisition.ipynb). 
 
 ## Repository structure
