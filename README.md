@@ -219,3 +219,18 @@ The impact of a wildfire is most likely influenced directly by how big the wildf
     }
  ```
  The value of $\alpha$ and $\beta$ are set to 0.5 so as to give distance and wildfire size equal weightage while computing smoke estimate.
+
+ ## Conclusion
+
+This study provides results showing a significant relationship between wildfire smoke exposure and employment levels in the leisure and service sectors of Lubbock. The strong negative correlations found in the annual data suggest that the overall effects of wildfire smoke exposure may have significant economic impacts on the city.
+
+It should be noted that correlation is not the same as causation. While our findings show an association between smoke estimates and employment levels, there may be other factors not studied in this paper that could help explain these trends. Future research should include more variables, such as broader economic conditions, policy changes, and other environmental factors, to better understand the relationship between wildfires and local economic conditions.
+
+To improve this analysis, the following changes are suggested:
+- Integrate wind data alongside advanced atmospheric modeling techniques to enhance the precision of smoke estimations.
+- Perform a comparative analysis across multiple cities to ascertain whether the identified trends are unique to Lubbock or indicative of a more extensive regional pattern.
+- Do an in-depth analysis of specific subsectors of leisure and service industries to establish the ones most vulnerable to the impacts of wildfires.
+- Integrate qualitative information from local businesses and residents to provide contextual meaning to the quantitative findings.
+- Broaden the analysis to include more recent data (after 2021) in order to grasp the impacts of recent large wildfire events.
+
+In summary, this study, while very important for the potential economic impacts of wildfires in Lubbock, should be taken as a starting point for broader research and policy discussions. The findings have emphatically brought out the need for proactivity in taking steps to address both environmental and economic challenges brought about by the increased risk of wildfires in the region
